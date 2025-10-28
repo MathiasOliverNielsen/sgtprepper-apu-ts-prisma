@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "sgtprepper-apu-ts-prisma",
+      "path": "."
+    },
+    {
+      "name": "sgtprepper-frontend-codealong-h1we080125-Heinz",
+      "path": "../sgtprepper-frontend-codealong-h1we080125-Heinz"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "sgtprepper-frontend-codealong-h1we080125-Heinz"
+  }
+}
